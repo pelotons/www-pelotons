@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://pelotons.github.io"
 title = "Site Title"
 theme = "pulp"
 canonifyurls = true
