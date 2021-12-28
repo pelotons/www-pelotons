@@ -1,4 +1,4 @@
-baseurl = "https://pelotons.github.io"
+baseurl = "https://pelotons.github.io/public"
 title = "Site Title"
 theme = "pulp"
 canonifyurls = true
