@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Pelotons</title>
+    <link>https://www.pelotons.cc/categories/</link>
+    <description>Recent content in Categories on Pelotons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://www.pelotons.cc/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bunker project</title>
+      <link>https://www.pelotons.cc/categories/bunker-project/</link>
+      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.pelotons.cc/categories/bunker-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rio grande</title>
+      <link>https://www.pelotons.cc/categories/rio-grande/</link>
+      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.pelotons.cc/categories/rio-grande/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tuscany trail</title>
+      <link>https://www.pelotons.cc/categories/tuscany-trail/</link>
+      <pubDate>Fri, 05 May 2017 19:44:32 +0530</pubDate>
+      
+      <guid>https://www.pelotons.cc/categories/tuscany-trail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Berlin Auchwitz</title>
+      <link>https://www.pelotons.cc/categories/berlin-auchwitz/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://www.pelotons.cc/categories/berlin-auchwitz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IPWR</title>
+      <link>https://www.pelotons.cc/categories/ipwr/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://www.pelotons.cc/categories/ipwr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TCR</title>
+      <link>https://www.pelotons.cc/categories/tcr/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://www.pelotons.cc/categories/tcr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trans cuba</title>
+      <link>https://www.pelotons.cc/categories/trans-cuba/</link>
+      <pubDate>Sat, 14 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.pelotons.cc/categories/trans-cuba/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
