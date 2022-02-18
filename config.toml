@@ -10,7 +10,7 @@ preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 
 
-publishDir = "docs"
+publishDir = "public"
 
 [privacy]
   # Google Analytics privacy settings - https://gohugo.io/about/hugo-and-gdpr/index.html#googleanalytics
