@@ -29,9 +29,9 @@ publishDir = "public"
   description = "Describe your website" # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
   author = "Mark Curphey"
-  authorLink = "https://appernetic.io/"
+  authorLink = "https:/curphey.com"
   bio = [
-    "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
+    "Stufffffffffff   gooes here...."
   ]
   copyright = [
     "&copy; 2022 Mark Curphey",
@@ -51,7 +51,7 @@ publishDir = "public"
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "goran@molnsys.com"
+  email = "mark@pelotons.cc"
 
   # Nav links in the side bar
   [[menu.main]]
@@ -65,7 +65,7 @@ publishDir = "public"
   weight = 2
 
   [[menu.main]]
-  name = "Get in touch"
+  name = "Contact"
   url = "contact/"
   weight = 3
 

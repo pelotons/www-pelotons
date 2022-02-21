@@ -1,20 +1,18 @@
 +++
-date = "2016-11-05T19:41:01+05:30"
-title = "The Indian Pacific Wheelrace, Australia"
-writer = "Göran Svensson"
+image = ""
+showonlyimage = true
 draft = false
-image = "img/portfolio/auchwitz.jpeg"
-showonlyimage = false
-categories = [ "IPWR"]
-weight = 3
-description = "Individual meta description for this post"
+date = "2017-12-25T19:53:42+05:30"
+title = "The Ride List"
+weight = 7
 +++
+There is a long list of places I am going to explore. Some like the Tuscany Trail, Badlands and the French Divide are organized bike-packing and ultra-endurance racing events, others like Berlin to Auschwitz and The Bunker Project are solo self-organized rides.
 
-This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
 <!--more-->
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+I have a long list of places I want to explore and adventures I want to have, all by bike. Some like the Tuscany Trail, Badlands and the French Divide are organized bike-packing and ultra-endurance racing events, others like Berlin to Auchwitz and The Bunker Project are rides I have been day-dreaming about for a while. They are all very different and together make up my bucket list.
 
+### The Tuscany Trail
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 

@@ -6,9 +6,6 @@
 
     <div id="loop-container" class="loop-container">
       <div class="entry">
-        <div class="entry-header">
-          <h1 class="entry-title">{{ .Title }}</h1>
-        </div>
         <div class="entry-container">
           <div class="entry-content">
             <article>
@@ -18,19 +15,15 @@
                 {{ with .Site.Params.email }}
                 <form method="post" action="https://formspree.io/{{ . }}">
                   <fieldset class="scf-name">
-                    <label for="scf_name">Name (Required)</label>
+                    <label for="scf_name">Name</label>
                     <input name="scf_name" id="scf_name" type="text" size="33" maxlength="99" value="" placeholder="Your Name">
                   </fieldset>
                   <fieldset class="scf-email">
-                    <label for="scf_email">Email (Required)</label>
+                    <label for="scf_email">Email</label>
                     <input name="scf_email" id="scf_email" type="text" size="33" maxlength="99" value="" placeholder="Your Email">
-                  </fieldset>
-                  <fieldset class="scf-response">
-                    <label for="scf_response">1 + 1 =</label>
-                    <input name="scf_response" id="scf_response" type="text" size="33" maxlength="99" value="" placeholder="Correct Response">
-                  </fieldset>
+
                   <fieldset class="scf-message">
-                    <label for="scf_message">Message (Required)</label>
+                    <label for="scf_message">Message</label>
                     <textarea name="scf_message" id="scf_message" cols="33" rows="7" placeholder="Your Message"></textarea>
                   </fieldset>
                   <div class="scf-submit">
@@ -47,5 +40,5 @@
           </div>
         </div>
       </div>	</div>
- 
+
     {{ end }}

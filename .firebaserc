@@ -27,7 +27,7 @@
     }],
     "redirects": [{
         "source": "/amp/news/:post*",
-        "destination": "https://nucleus-zero.com/:blog*",
+        "destination": "https://pelotons.cc/:blog*",
         "type": 301
       }
     ]
