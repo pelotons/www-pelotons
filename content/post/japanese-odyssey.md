@@ -3,7 +3,7 @@ showonlyimage = true
 draft = false
 image = "img/portfolio/japanese-odyssey.jpeg"
 date = "2015-02-14"
-title = "The Japanese Odyssey"
+title = "The Japanese Odyssey, Japan"
 categories = [ "japanese odyssey"]
 weight = 2
 +++

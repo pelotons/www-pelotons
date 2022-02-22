@@ -2,7 +2,7 @@
 draft = false
 image = "img/portfolio/Heerenduin.jpeg"
 showonlyimage = false
-title = "The Bunker Project"
+title = "The Bunker Project, The Alps"
 categories = [ "bunker project" ]
 weight = 4
 +++
