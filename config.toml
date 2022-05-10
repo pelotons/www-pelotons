@@ -74,4 +74,4 @@ publishDir = "public"
   email         = "email@example.com"
   twitter       = "full profile url in twitter"
   instagram     = "full profile url in instagram"
-  rss           = true
+  RSS      = true
