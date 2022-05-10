@@ -5,14 +5,6 @@
 
     <div class="menu">
 
-      <ul id="menu-secondary-items" class="menu-secondary-items">
-        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-        <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
-          <a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>
-        </li>
-        {{ end }}
-
-      </ul>
 
     </div>
 
