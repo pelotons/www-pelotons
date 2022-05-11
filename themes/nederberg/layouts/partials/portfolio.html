@@ -1,4 +1,4 @@
-<h1 class="screen-reader-text">Posts</h1> 
+<h1 class="screen-reader-text">Posts</h1>
 <div id="loop-container" class="loop-container">
 	{{ $paginator := .Paginate (where (where .Site.Pages "Type" "post").ByDate.Reverse "IsPage" true) }}
 	{{ range $index, $element := .Paginator.Pages }}
@@ -23,22 +23,7 @@
 				{{ end }}
 				<div class="excerpt-container">
 					<div class="excerpt-meta">
-						<span class="date">{{ .Date.Format "02 January" }}</span>
-
-						{{ if and (isset .Site.Params "authorlink") .Site.Params.authorLink }}
-							{{ if and (isset .Site.Params "author") .Site.Params.author }}
-							<span> / </span>
-						<span class="author">
-						<a href="{{ $writer.link | default .Site.Params.authorlink | absURL }}" title="Posts by {{ .Params.writer | default .Site.Params.author }}" rel="author">{{ .Params.writer | default .Site.Params.author }}</a>
-						</span>
-							{{ end }}
-						{{ else }}
-						<span class="author">
-						{{ .Params.writer | default .Site.Params.author }}
-						</span>
-						{{ end }}
 						{{ range .Params.categories }}
-						<span> / </span>
 						<span class="category">
 							<a href="/categories/{{ . | urlize }}">{{ . }}</a>
 						</span>
