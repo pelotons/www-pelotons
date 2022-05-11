@@ -1,11 +1,11 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "img/portfolio/girona.jpeg"
 date = "2017-02-14T18:25:22+05:30"
-title = "Name of the work 1"
+title = "Girona"
 writer = "Lukas Herman"
-categories = [ "design"]
+categories = [ "road", "gravel"]
 weight = 1
 +++
 
