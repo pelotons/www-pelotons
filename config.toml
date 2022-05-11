@@ -28,11 +28,7 @@ publishDir = "public"
   slogan = "Photographs and Short Films of Adventure Cycling Trips"
   description = "Describe your website" # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
-  author = "Mark Curphey"
-  authorLink = "https:/curphey.com"
-  bio = [
-    "Stufffffffffff   gooes here...."
-  ]
+
   copyright = [
     "&copy; 2022 Mark Curphey",
 
@@ -54,22 +50,13 @@ publishDir = "public"
   email = "mark@pelotons.cc"
 
   # Nav links in the side bar
-  [[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 1
 
   [[menu.main]]
   name = "About"
   url = "about/"
   weight = 2
 
-  [[menu.main]]
-  name = "Contact"
-  url = "contact/"
-  weight = 3
-
 # this will also be in author bio if there is no writer.
   [params.social]
 
-  instagram = "pelotonscc"
+  instagram = "pelotons.cc"
