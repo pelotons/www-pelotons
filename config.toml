@@ -51,10 +51,10 @@ publishDir = "public"
 
   # Nav links in the side bar
 
-  [[menu.main]]
-  name = "About"
-  url = "about/"
-  weight = 2
+#  [[menu.main]]
+#  name = "About"
+#  url = "about/"
+#  weight = 2
 
 # this will also be in author bio if there is no writer.
   [params.social]

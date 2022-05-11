@@ -34,4 +34,18 @@
       </ul>
     </div>
 
+    <ul class="social-media-icons">
+
+      {{ with .Site.Params.social.instagram }}
+      <li>
+        <a href="https://instagram.com/pelotons.cc" data-animate-hover="pulse" class="instagram" target="_blank">
+          <i class="fab fa-instagram" title="instagram"></i>
+          <span class="screen-reader-text">instagram</span>
+        </a>
+      </li>
+      {{end}}
+
+    </ul>
+
+
   </div>

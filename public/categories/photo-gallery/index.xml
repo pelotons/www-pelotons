@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Pelotons</title>
-    <link>https://www.pelotons.cc/post/</link>
-    <description>Recent content in Posts on Pelotons</description>
+    <title>photo gallery on Pelotons</title>
+    <link>https://www.pelotons.cc/categories/photo-gallery/</link>
+    <description>Recent content in photo gallery on Pelotons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2017 19:44:32 +0530</lastBuildDate><atom:link href="https://www.pelotons.cc/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 May 2017 19:44:32 +0530</lastBuildDate><atom:link href="https://www.pelotons.cc/categories/photo-gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Girona, Spain</title>
       <link>https://www.pelotons.cc/post/girona/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://www.pelotons.cc/post/girona/</guid>
       <description>&lt;p&gt;Three days riding out of the old town on both road and gravel. Includes a run out to the coast, the famous climbs of Els Angels and Roccacorba and the best local gravel.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>This is a Standard Post</title>
-      <link>https://www.pelotons.cc/post/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>https://www.pelotons.cc/post/work2/</guid>
-      <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!&lt;/p&gt;</description>
     </item>
     
     <item>

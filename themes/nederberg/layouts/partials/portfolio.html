@@ -25,6 +25,8 @@
 					<div class="excerpt-meta">
 						{{ range .Params.categories }}
 						<span class="category">
+							<span> / </span>
+
 							<a href="/categories/{{ . | urlize }}">{{ . }}</a>
 						</span>
 						{{ end }}
