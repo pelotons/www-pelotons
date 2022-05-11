@@ -17,12 +17,21 @@
     </item>
     
     <item>
-      <title>This is a Standard Post</title>
-      <link>https://www.pelotons.cc/post/work2/</link>
+      <title>The Bunker Research Project</title>
+      <link>https://www.pelotons.cc/post/bunker-research-project/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://www.pelotons.cc/post/work2/</guid>
+      <guid>https://www.pelotons.cc/post/bunker-research-project/</guid>
       <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Berlin to Auschwitz</title>
+      <link>https://www.pelotons.cc/post/berlin-auschwitz/</link>
+      <pubDate>Fri, 05 May 2017 19:44:32 +0530</pubDate>
+      
+      <guid>https://www.pelotons.cc/post/berlin-auschwitz/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -32,15 +41,6 @@
       
       <guid>https://www.pelotons.cc/post/tuscany-trail/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.pelotons.cc/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.pelotons.cc/about/</guid>
-      <description>&lt;p&gt;This website has been setup to publish short films and photo galleries of epic bike adventures. Some like the Tuscany Trail, Badlands and the French Divide are organised bike-packing and ultra-endurance racing events, others like Berlin to Auschwitz and The Bunker Project are solo self-organised projects.&lt;/p&gt;</description>
     </item>
     
   </channel>
