@@ -1,36 +1,17 @@
 +++
-date = "2016-11-05T19:41:01+05:30"
+date = "2022-05-15"
 title = "The Bunker Research Project"
 draft = false
 image = "img/portfolio/bunker-research.jpeg"
 showonlyimage = false
-categories = [ "planned", "short film series", "ongoing"]
-weight = 2
+categories = ["short film"]
+weight = 1
 description = "Individual meta description for this post"
 +++
 
-This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
+An ongoing series of short-films riding to the World War II bunkers in the Alps, explored in the 1960's by the [Rough Stuff Fellowship](https://www.rsf.org.uk/about-us/history-and-beginnings.html) and documented on the [Bunker Research](https://bunkerresearch.com/) site and [accompanying book](https://www.amazon.co.uk/Bunker-Research-history-modernism-mountains/dp/0995488649).
 <!--more-->
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+The plan is to ride to each bunker or a series of bunkers documenting the route, terrain and the bunker with hopefully some history of the role the bunker played in the war.
 
-
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
-
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+## Starting Spring 2023
